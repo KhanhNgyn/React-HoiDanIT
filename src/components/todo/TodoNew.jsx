@@ -16,7 +16,6 @@ const TodoNew = (props) => {
 
     const handleOnChange = (name) => {
         setValueInput(name);
-
     }
 
     return (
